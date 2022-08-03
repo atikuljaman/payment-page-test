@@ -1,0 +1,19 @@
+.logo {
+    width: 130px;
+}
+
+.nav-link {
+    color: #222 !important;
+    margin: 0 25px;
+}
+
+.icon {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.user-icon {
+    font-size: 22px;
+    margin-top: 7px;
+    cursor: pointer;
+}

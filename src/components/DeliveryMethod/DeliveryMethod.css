@@ -1,0 +1,27 @@
+.delivery-method-container h5 {
+    color: #333;
+    font-size: 18px;
+}
+
+.delivery-method-btn {
+    width: 50%;
+    height: 48px;
+    border: 1px solid #dddddd;
+    border-radius: 999px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .3s ease-in-out;
+    display: flex;
+    align-items: center;
+}
+
+.delivery-method-btn:hover {
+    border-color: rgb(255, 150, 30);
+}
+
+.delivery-method-btn img {
+    width: 50px;
+    margin-right: 15px;
+}

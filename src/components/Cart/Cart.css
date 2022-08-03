@@ -1,0 +1,51 @@
+.cart-container h5 {
+    font-size: 18px;
+    color: #333;
+}
+
+.cart-img-container {
+    width: 60px;
+    height: 60px;
+}
+
+.product-title {
+    margin: 0;
+    color: #333;
+    font-size: 18px;
+}
+
+.product-number {
+    color: #9c9c9c;
+    margin: 0;
+}
+
+.total-cost-container {
+    width: 90%;
+    height: 50px;
+    border-radius: 999px;
+    background-color: #f1f1f1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 30px auto;
+}
+
+.total-cost-container span {
+    font-size: 18px;
+    color: #333;
+    font-weight: 600;
+}
+
+.total-cost {
+    color: #9c9c9c !important;
+}
+
+.cart-truck-icon {
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.free-shipping {
+    font-weight: 600;
+    color: #333;
+}

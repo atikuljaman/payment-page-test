@@ -1,0 +1,37 @@
+.payment-method-container {
+    margin-bottom: 30px;
+}
+
+.payment-method-container h5 {
+    color: #333;
+    font-size: 18px;
+}
+
+.payment-method-btn {
+    width: 150px;
+    height: 48px;
+    border: 1px solid #dddddd;
+    border-radius: 999px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .3s ease-in-out;
+}
+
+
+.payment-method-btn:hover {
+    border-color: rgb(255, 150, 30);
+}
+
+.payment-method-btn img {
+    width: 60px;
+}
+
+.payment-method-btn .master-card-img {
+    width: 100px;
+}
+
+.payment-method-btn .maestro-card-img {
+    width: 40px;
+}
